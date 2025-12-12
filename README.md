@@ -1,4 +1,4 @@
-Predictive Maintenance using Machine Learning (CMAPSS – NASA Turbofan Engines)
+PREDICTIVE MAINTENANCE USING MACHINE LEARNING (CMAPSS – NASA Turbofan Engines)
 
 A hands-on end-to-end project built to understand real-world ML pipelines, feature engineering, and deployment.
 

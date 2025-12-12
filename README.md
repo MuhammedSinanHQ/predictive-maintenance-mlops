@@ -157,7 +157,7 @@ Request:
 }
 
 
-Response (example):
+Response ():
 
 {
   "prediction": 0,

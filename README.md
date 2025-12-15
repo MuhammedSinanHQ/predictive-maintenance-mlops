@@ -181,8 +181,3 @@ understanding how everything connects
 
 This project gave me a much clearer picture of real workflows used in companies — way more than a Kaggle notebook ever could.
 
-💬 Final Thoughts
-
-I built this project to strengthen my practical understanding of machine learning and deployment. I tried to make everything as clean and reproducible as possible so anyone reviewing my work (professors, engineers, or admissions panels) can run it without difficulty.
-
-If you want to test the API, train a new model, or extend this to RUL (Remaining Useful Life) prediction, the project structure is already prepared for it.

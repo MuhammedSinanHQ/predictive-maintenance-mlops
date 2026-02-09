@@ -4,13 +4,13 @@ A hands-on end-to-end project built to understand real-world ML pipelines, featu
 
 📌 Overview
 
-This project is my attempt to build a complete predictive maintenance system from scratch — starting from raw sensor logs and ending with a working FastAPI inference service.
+This project is my attempt to build a complete predictive maintenance system from scratch starting from raw sensor logs and ending with a working FastAPI inference service.
 
 I used the NASA CMAPSS turbofan engine dataset, which contains multivariate time-series data from engines running until failure. The goal is simple:
 
 Predict whether an engine is heading toward failure using sensor patterns + ML.
 
-Instead of stopping at a notebook experiment, I pushed myself to go through the entire workflow — preprocessing, feature engineering, model training, evaluation, and finally exposing a real API that can be tested locally.
+Instead of stopping at a notebook experiment, I pushed myself to go through the entire workflow preprocessing, feature engineering, model training, evaluation, and finally exposing a real API that can be tested locally.
 
 This project taught me how real machine-learning systems are built, not just the theory.
 
@@ -99,7 +99,7 @@ Health check:
 
 POST /predict_simple
 
-For quick demos — only needs a few sensor values.
+For quick demos only needs a few sensor values.
 
 POST /predict_from_features
 
